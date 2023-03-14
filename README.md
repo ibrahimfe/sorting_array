@@ -8,6 +8,7 @@ Algorithms
 The following sorting algorithms are implemented in this repository:
 
     Bubble Sort
+    Tree Sort
     Selection Sort
     Insertion Sort
     Merge Sort
